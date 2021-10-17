@@ -6,11 +6,11 @@
 
  
 
-:computer: Atualmente aprendendo Front End Developing.
+:computer: Recém amante da programação.
 
 :books: Tentando aprender de tudo um pouco, e aqui é meu espaço para guardar projetos.
 
-:outbox_tray: Meu objetivo é aprender cada vez mais e conseguir um bom emprego.
+:outbox_tray: Buscando sempre aprender e a procura de alavancar minha carreira.
 
  
 
